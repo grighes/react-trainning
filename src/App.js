@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+/*import React, { Component } from 'react';
 import './App.css';
 import ButtonOne from './components/Button-One/Button';
 import ButtonTwo from './components/Button-Two/Button';
@@ -17,4 +17,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App;*/
